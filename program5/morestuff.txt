@@ -1,0 +1,18 @@
+------------------------------------------------------------------
+                                                          	 ITEM 1
+NAME:	Plastic Duck
+
+DESCRIPTION:	its a duck
+
+GOODS PRICE:	$3
+
+SALE PRICE:	$10
+
+PROFIT:	$7
+
+STORES WHO SALE THIS ITEM:
+	STORE 1 NAME: the duck store
+	STORE 2 NAME: rubber inc
+	STORE 3 NAME: yellow store
+
+CREATION DATE:	04 023902495
